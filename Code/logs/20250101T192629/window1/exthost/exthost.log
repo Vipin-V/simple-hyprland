@@ -1,0 +1,92 @@
+2025-01-01 19:26:44.608 [info] Extension host with pid 1102 started
+2025-01-01 19:26:44.653 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-01 19:26:44.857 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-01 19:26:44.892 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-01 19:26:45.309 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-01 19:26:45.631 [info] Eager extensions activated
+2025-01-01 19:26:45.649 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:26:45.694 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:26:45.795 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:26:46.945 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:26:48.001 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:26:54.000 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-01 19:27:17.700 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-01 19:27:36.457 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:36.567 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:36.652 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:36.658 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:36.664 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: false, activationEvent: '*'
+2025-01-01 19:27:36.740 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: false, activationEvent: '*'
+2025-01-01 19:27:36.744 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:36.788 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:37.008 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:37.091 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:27:37.143 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: false, activationEvent: '*'
+2025-01-01 19:29:21.028 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-01 19:31:16.436 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2025-01-01 19:37:51.671 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-01 19:37:51.748 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-01 19:37:51.875 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-01 19:38:28.389 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-01 19:38:28.512 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.value (/home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:76829)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+    at f.closeServer (/home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:86719)
+    at f.dispose (/home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:89016)
+    at /home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:71726
+    at Map.forEach (<anonymous>)
+    at b.closeAllServers (/home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:71711)
+    at b.dispose (/home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:71754)
+    at Object.t.deactivate (/home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:64725)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11724)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-01 19:38:28.524 [info] Extension host with pid 1102 exiting with code 0
+2025-01-01 19:38:29.687 [info] Extension host with pid 1404 started
+2025-01-01 19:38:29.709 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-01 19:38:29.778 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-01 19:38:29.875 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-01 19:38:29.908 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-01 19:38:30.028 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onCommand:code-runner.run'
+2025-01-01 19:38:30.062 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2025-01-01 19:38:30.160 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-01 19:38:30.164 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: false, activationEvent: '*'
+2025-01-01 19:38:30.215 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: false, activationEvent: '*'
+2025-01-01 19:38:30.219 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: false, activationEvent: '*'
+2025-01-01 19:38:30.224 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-01 19:38:30.245 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-01 19:38:30.348 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-01 19:38:30.818 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-01 19:38:30.987 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-01 19:38:31.645 [info] Eager extensions activated
+2025-01-01 19:38:31.740 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:31.745 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:31.809 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:31.818 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:31.909 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:32.077 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:32.965 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:34.022 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:34.109 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:34.113 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 19:38:34.126 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-01 20:04:29.984 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-01 20:04:30.110 [info] Extension host with pid 1404 exiting with code 0

@@ -1,0 +1,28 @@
+2025-01-01 19:26:48.867 [info] Using the Electron fetcher.
+2025-01-01 19:26:48.867 [info] Initializing Git extension service.
+2025-01-01 19:26:48.867 [info] Successfully activated the vscode.git extension.
+2025-01-01 19:26:48.867 [info] Enablement state of the vscode.git extension: true.
+2025-01-01 19:26:48.867 [info] Successfully registered Git commit message provider.
+2025-01-01 19:26:48.899 [info] Logged in as Vipin-V
+2025-01-01 19:26:52.058 [info] Got Copilot token for Vipin-V
+2025-01-01 19:26:52.161 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-01 19:26:52.161 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-01 19:26:52.200 [info] Registering default platform agent...
+2025-01-01 19:26:53.153 [info] Fetched model metadata in 1071ms 47d1b99e-c712-4d48-950c-6ccaacb76490
+2025-01-01 19:26:53.250 [info] activationBlocker from 'languageModelAccess' took for 1312ms
+2025-01-01 19:38:35.359 [info] Using the Electron fetcher.
+2025-01-01 19:38:35.359 [info] Initializing Git extension service.
+2025-01-01 19:38:35.359 [info] Successfully activated the vscode.git extension.
+2025-01-01 19:38:35.359 [info] Enablement state of the vscode.git extension: true.
+2025-01-01 19:38:35.359 [info] Successfully registered Git commit message provider.
+2025-01-01 19:38:38.405 [info] Logged in as Vipin-V
+2025-01-01 19:38:39.298 [info] Got Copilot token for Vipin-V
+2025-01-01 19:38:39.438 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-01 19:38:39.438 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-01 19:38:39.474 [info] Registering default platform agent...
+2025-01-01 19:38:40.446 [info] Fetched model metadata in 1128ms 00acdedd-2b3d-4201-862e-297b74092bcf
+2025-01-01 19:38:40.457 [info] activationBlocker from 'languageModelAccess' took for 2338ms
+2025-01-01 19:53:42.234 [info] Fetched model metadata in 1095ms f6a634b9-bc2d-48b2-a5f5-ebfb0e971d52
+2025-01-01 20:03:39.329 [info] Logged in as Vipin-V
+2025-01-01 20:03:40.400 [info] Got Copilot token for Vipin-V
+2025-01-01 20:03:40.451 [info] copilot token chat_enabled: true, sku: free_limited_copilot

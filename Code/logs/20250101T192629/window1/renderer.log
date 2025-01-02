@@ -1,0 +1,25 @@
+2025-01-01 19:26:37.233 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-01 19:26:37.234 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-01 19:26:37.234 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-01 19:26:39.215 [info] Started local extension host with pid 1102.
+2025-01-01 19:26:42.575 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-01 19:26:44.039 [info] [perf] Render performance baseline is 74ms
+2025-01-01 19:26:56.697 [info] Settings Sync: Updated current session d60ca3b1b5d1cede
+2025-01-01 19:26:56.711 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-01 19:26:56.716 [info] Settings Sync: Account status changed from unavailable to available
+2025-01-01 19:35:38.183 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/hacker/.config/Code/User/globalStorage/ritwickdey.liveserver': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/hacker/.config/Code/User/globalStorage/ritwickdey.liveserver'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-01 19:37:18.957 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/hacker/.config/Code/User/globalStorage/monokai.theme-monokai-pro-vscode': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/hacker/.config/Code/User/globalStorage/monokai.theme-monokai-pro-vscode'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-01 19:37:57.871 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/hacker/.config/Code/User/globalStorage/pkief.material-icon-theme': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/hacker/.config/Code/User/globalStorage/pkief.material-icon-theme'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-01 19:38:28.617 [info] Started local extension host with pid 1404.
+2025-01-01 19:38:30.823 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-01 19:38:35.329 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-01 19:38:39.410 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-01 19:38:39.410 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-01 19:38:39.459 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-01 19:38:39.459 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

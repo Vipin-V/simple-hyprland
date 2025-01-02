@@ -1,0 +1,157 @@
+2025-01-01 19:27:03.637 [info] Getting Manifest... aaron-bond.better-comments
+2025-01-01 19:27:03.637 [info] Getting Manifest... pkief.material-icon-theme
+2025-01-01 19:27:03.637 [info] Getting Manifest... oderwat.indent-rainbow
+2025-01-01 19:27:03.638 [info] Getting Manifest... esbenp.prettier-vscode
+2025-01-01 19:27:03.638 [info] Getting Manifest... monokai.theme-monokai-pro-vscode
+2025-01-01 19:27:03.638 [info] Getting Manifest... simonsiefke.svg-preview
+2025-01-01 19:27:03.639 [info] Getting Manifest... wayou.vscode-todo-highlight
+2025-01-01 19:27:03.639 [info] Getting Manifest... naumovs.color-highlight
+2025-01-01 19:27:03.639 [info] Getting Manifest... formulahendry.auto-rename-tag
+2025-01-01 19:27:03.640 [info] Getting Manifest... formulahendry.code-runner
+2025-01-01 19:27:03.640 [info] Getting Manifest... rexthedev.flutter-preview
+2025-01-01 19:27:03.640 [info] Getting Manifest... kisstkondoros.vscode-gutter-preview
+2025-01-01 19:27:03.641 [info] Getting Manifest... xabikos.javascriptsnippets
+2025-01-01 19:27:03.641 [info] Getting Manifest... nash.awesome-flutter-snippets
+2025-01-01 19:27:03.641 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-01-01 19:27:03.641 [info] Getting Manifest... dart-code.dart-code
+2025-01-01 19:27:03.642 [info] Getting Manifest... dart-code.flutter
+2025-01-01 19:27:03.642 [info] Getting Manifest... ms-vscode.live-server
+2025-01-01 19:27:03.934 [info] Installing extension: simonsiefke.svg-preview {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.935 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.935 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.935 [info] Installing extension: wayou.vscode-todo-highlight {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.935 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.936 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.936 [info] Installing extension: formulahendry.auto-rename-tag {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.936 [info] Installing extension: rexthedev.flutter-preview {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.936 [info] Installing extension: naumovs.color-highlight {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.937 [info] Installing extension: aaron-bond.better-comments {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.937 [info] Installing extension: kisstkondoros.vscode-gutter-preview {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.937 [info] Installing extension: dart-code.flutter {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.938 [info] Installing extension: nash.awesome-flutter-snippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.938 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.938 [info] Installing extension: monokai.theme-monokai-pro-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.939 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.939 [info] Installing extension: dart-code.dart-code {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.939 [info] Installing extension: oderwat.indent-rainbow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 19:27:03.940 [info] Installing the extension without checking dependencies and pack simonsiefke.svg-preview
+2025-01-01 19:27:03.940 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2025-01-01 19:27:03.940 [info] Installing the extension without checking dependencies and pack ms-vscode.live-server
+2025-01-01 19:27:03.940 [info] Installing the extension without checking dependencies and pack wayou.vscode-todo-highlight
+2025-01-01 19:27:03.940 [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+2025-01-01 19:27:03.941 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2025-01-01 19:27:03.941 [info] Installing the extension without checking dependencies and pack formulahendry.auto-rename-tag
+2025-01-01 19:27:03.941 [info] Installing the extension without checking dependencies and pack rexthedev.flutter-preview
+2025-01-01 19:27:03.941 [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+2025-01-01 19:27:03.942 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2025-01-01 19:27:03.942 [info] Installing the extension without checking dependencies and pack kisstkondoros.vscode-gutter-preview
+2025-01-01 19:27:03.942 [info] Installing the extension without checking dependencies and pack dart-code.flutter
+2025-01-01 19:27:03.942 [info] Installing the extension without checking dependencies and pack nash.awesome-flutter-snippets
+2025-01-01 19:27:03.943 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2025-01-01 19:27:03.943 [info] Installing the extension without checking dependencies and pack monokai.theme-monokai-pro-vscode
+2025-01-01 19:27:03.943 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2025-01-01 19:27:03.943 [info] Installing the extension without checking dependencies and pack dart-code.dart-code
+2025-01-01 19:27:03.944 [info] Installing the extension without checking dependencies and pack oderwat.indent-rainbow
+2025-01-01 19:27:06.303 [info] Extension signature verification result for dbaeumer.vscode-eslint: UnknownError. Executed: true. Duration: 189ms.
+2025-01-01 19:27:06.304 [info] Extension signature verification result for xabikos.javascriptsnippets: UnknownError. Executed: true. Duration: 228ms.
+2025-01-01 19:27:06.304 [info] Extension signature verification result for nash.awesome-flutter-snippets: UnknownError. Executed: true. Duration: 210ms.
+2025-01-01 19:27:06.305 [info] Extension signature verification result for monokai.theme-monokai-pro-vscode: UnknownError. Executed: true. Duration: 201ms.
+2025-01-01 19:27:06.306 [info] Extension signature verification result for ms-vscode.live-server: UnknownError. Executed: true. Duration: 176ms.
+2025-01-01 19:27:06.306 [info] Extension signature verification result for simonsiefke.svg-preview: UnknownError. Executed: true. Duration: 839ms.
+2025-01-01 19:27:06.307 [info] Extension signature verification result for kisstkondoros.vscode-gutter-preview: UnknownError. Executed: true. Duration: 259ms.
+2025-01-01 19:27:06.308 [info] Extension signature verification result for naumovs.color-highlight: UnknownError. Executed: true. Duration: 134ms.
+2025-01-01 19:27:06.310 [info] Extension signature verification result for aaron-bond.better-comments: UnknownError. Executed: true. Duration: 747ms.
+2025-01-01 19:27:06.397 [info] Extracted extension to file:///home/hacker/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2025-01-01 19:27:06.456 [info] Extracted extension to file:///home/hacker/.vscode/extensions/nash.awesome-flutter-snippets-4.0.1: nash.awesome-flutter-snippets
+2025-01-01 19:27:06.548 [info] Extension signature verification result for formulahendry.code-runner: UnknownError. Executed: true. Duration: 11ms.
+2025-01-01 19:27:06.554 [info] Extracted extension to file:///home/hacker/.vscode/extensions/simonsiefke.svg-preview-2.8.3: simonsiefke.svg-preview
+2025-01-01 19:27:06.556 [info] Extracted extension to file:///home/hacker/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2025-01-01 19:27:06.764 [info] Renamed to /home/hacker/.vscode/extensions/nash.awesome-flutter-snippets-4.0.1
+2025-01-01 19:27:06.769 [info] Renamed to /home/hacker/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2025-01-01 19:27:07.206 [info] Renamed to /home/hacker/.vscode/extensions/simonsiefke.svg-preview-2.8.3
+2025-01-01 19:27:07.217 [info] Renamed to /home/hacker/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2025-01-01 19:27:07.245 [info] Extracted extension to file:///home/hacker/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.32.2: kisstkondoros.vscode-gutter-preview
+2025-01-01 19:27:07.276 [info] Extension signature verification result for formulahendry.auto-rename-tag: UnknownError. Executed: true. Duration: 16ms.
+2025-01-01 19:27:07.291 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 25ms.
+2025-01-01 19:27:07.294 [info] Extension signature verification result for wayou.vscode-todo-highlight: UnknownError. Executed: true. Duration: 14ms.
+2025-01-01 19:27:07.324 [info] Extension signature verification result for dart-code.flutter: UnknownError. Executed: true. Duration: 14ms.
+2025-01-01 19:27:07.380 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 19:27:07.390 [info] Renamed to /home/hacker/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.32.2
+2025-01-01 19:27:07.413 [info] Extracted extension to file:///home/hacker/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2025-01-01 19:27:07.460 [info] Extracted extension to file:///home/hacker/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.5: monokai.theme-monokai-pro-vscode
+2025-01-01 19:27:07.521 [info] Extracted extension to file:///home/hacker/.vscode/extensions/dart-code.flutter-3.102.0: dart-code.flutter
+2025-01-01 19:27:07.538 [info] Renamed to /home/hacker/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2025-01-01 19:27:07.627 [info] Extracted extension to file:///home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15: ms-vscode.live-server
+2025-01-01 19:27:07.629 [info] Renamed to /home/hacker/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.5
+2025-01-01 19:27:07.630 [info] Renamed to /home/hacker/.vscode/extensions/dart-code.flutter-3.102.0
+2025-01-01 19:27:07.680 [info] Extracted extension to file:///home/hacker/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10: formulahendry.auto-rename-tag
+2025-01-01 19:27:07.691 [info] Extracted extension to file:///home/hacker/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5: wayou.vscode-todo-highlight
+2025-01-01 19:27:07.788 [info] Renamed to /home/hacker/.vscode/extensions/ms-vscode.live-server-0.4.15
+2025-01-01 19:27:07.816 [info] Renamed to /home/hacker/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2025-01-01 19:27:07.817 [info] Renamed to /home/hacker/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5
+2025-01-01 19:27:07.887 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 38ms.
+2025-01-01 19:27:08.459 [info] Extension signature verification result for oderwat.indent-rainbow: UnknownError. Executed: true. Duration: 12ms.
+2025-01-01 19:27:08.707 [info] Extension signature verification result for rexthedev.flutter-preview: UnknownError. Executed: true. Duration: 27ms.
+2025-01-01 19:27:08.777 [info] Extracted extension to file:///home/hacker/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-01-01 19:27:08.856 [info] Extracted extension to file:///home/hacker/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-01-01 19:27:09.012 [info] Extracted extension to file:///home/hacker/.vscode/extensions/rexthedev.flutter-preview-1.0.2: rexthedev.flutter-preview
+2025-01-01 19:27:09.058 [info] Renamed to /home/hacker/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-01-01 19:27:09.084 [info] Renamed to /home/hacker/.vscode/extensions/rexthedev.flutter-preview-1.0.2
+2025-01-01 19:27:09.084 [info] Renamed to /home/hacker/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-01-01 19:27:09.366 [info] Extracted extension to file:///home/hacker/.vscode/extensions/naumovs.color-highlight-2.8.0: naumovs.color-highlight
+2025-01-01 19:27:09.455 [info] Renamed to /home/hacker/.vscode/extensions/naumovs.color-highlight-2.8.0
+2025-01-01 19:27:09.545 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 19:27:10.626 [info] Extracted extension to file:///home/hacker/.vscode/extensions/pkief.material-icon-theme-5.16.0: pkief.material-icon-theme
+2025-01-01 19:27:10.759 [info] Renamed to /home/hacker/.vscode/extensions/pkief.material-icon-theme-5.16.0
+2025-01-01 19:27:10.852 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 19:27:11.102 [info] Extracted extension to file:///home/hacker/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2025-01-01 19:27:11.308 [info] Renamed to /home/hacker/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2025-01-01 19:27:11.393 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 19:27:13.286 [info] Extension signature verification result for dart-code.dart-code: UnknownError. Executed: true. Duration: 21ms.
+2025-01-01 19:27:34.119 [info] Extracted extension to file:///home/hacker/.vscode/extensions/dart-code.dart-code-3.102.0: dart-code.dart-code
+2025-01-01 19:27:35.738 [info] Renamed to /home/hacker/.vscode/extensions/dart-code.dart-code-3.102.0
+2025-01-01 19:27:36.145 [info] Extension installed successfully: nash.awesome-flutter-snippets vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.145 [info] Extension installed successfully: xabikos.javascriptsnippets vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.146 [info] Extension installed successfully: simonsiefke.svg-preview vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.146 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.148 [info] Extension installed successfully: kisstkondoros.vscode-gutter-preview vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.149 [info] Extension installed successfully: aaron-bond.better-comments vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.149 [info] Extension installed successfully: monokai.theme-monokai-pro-vscode vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.149 [info] Extension installed successfully: dart-code.flutter vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.150 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.150 [info] Extension installed successfully: formulahendry.auto-rename-tag vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.151 [info] Extension installed successfully: wayou.vscode-todo-highlight vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.151 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.152 [info] Extension installed successfully: rexthedev.flutter-preview vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.152 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.153 [info] Extension installed successfully: naumovs.color-highlight vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.153 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.154 [info] Extension installed successfully: oderwat.indent-rainbow vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:27:36.154 [info] Extension installed successfully: dart-code.dart-code vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:35:39.933 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 19:35:40.068 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2025-01-01 19:35:40.528 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 vscode-userdata:/home/hacker/.vscode/extensions/extensions.json

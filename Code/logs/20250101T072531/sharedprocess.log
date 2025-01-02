@@ -1,0 +1,60 @@
+2025-01-01 07:27:08.274 [info] Getting Manifest... github.copilot
+2025-01-01 07:27:08.466 [info] Installing extension: github.copilot {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 07:27:09.768 [info] Getting Manifest... github.copilot-chat
+2025-01-01 07:27:09.979 [info] Installing extension: github.copilot-chat {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-01 07:27:15.342 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 60ms.
+2025-01-01 07:27:15.410 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 47ms.
+2025-01-01 07:27:16.808 [info] Extracted extension to file:///home/hacker/.vscode/extensions/github.copilot-chat-0.23.2: github.copilot-chat
+2025-01-01 07:27:16.919 [info] Renamed to /home/hacker/.vscode/extensions/github.copilot-chat-0.23.2
+2025-01-01 07:27:17.043 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 07:27:17.234 [info] Extracted extension to file:///home/hacker/.vscode/extensions/github.copilot-1.254.0: github.copilot
+2025-01-01 07:27:17.288 [info] Renamed to /home/hacker/.vscode/extensions/github.copilot-1.254.0
+2025-01-01 07:27:17.403 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 07:27:17.418 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 07:27:17.419 [info] Extension installed successfully: github.copilot vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 07:33:28.850 [info] Getting Manifest... ritwickdey.liveserver
+2025-01-01 07:33:29.006 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-01 07:33:31.405 [info] Extension signature verification result for ritwickdey.liveserver: UnknownError. Executed: true. Duration: 21ms.
+2025-01-01 07:33:39.332 [info] Extracted extension to file:///home/hacker/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-01-01 07:33:39.895 [info] Renamed to /home/hacker/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-01-01 07:33:39.994 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 07:33:40.012 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 07:34:42.321 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 07:34:42.401 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2025-01-01 07:34:42.423 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 07:34:43.342 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
+2025-01-01 07:35:30.463 [info] Getting Manifest... ritwickdey.liveserver
+2025-01-01 07:35:30.504 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hacker/.vscode/extensions/extensions.json","path":"/home/hacker/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-01 07:35:30.723 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2025-01-01 07:35:30.843 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-01 07:35:30.864 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/hacker/.vscode/extensions/extensions.json
